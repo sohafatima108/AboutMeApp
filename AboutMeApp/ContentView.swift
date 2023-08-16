@@ -28,6 +28,7 @@ struct ContentView: View {
                    soha = ("Soha is a 15 year old sophomore. She loves pink, baking, reading, basketball, and food.")
                      
                 }
+                //this is a comment
                 .background(.cyan)
                 .foregroundColor(.white)
                 .font(.title)
